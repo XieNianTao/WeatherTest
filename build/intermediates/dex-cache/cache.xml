@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/AndroidStudioProjects/WeatherTest/app/libs/httpcore-4.4.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="/Users/apple/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/httpcore-4.4.3-3f191c3c35189798308a8ed8c79f350467c3fdcd.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/WeatherTest/app/libs/httpclient-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e3cecc566df91338c6c67883b89ddd05a17db43">
+        <dex dex="/Users/apple/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/httpclient-4.5.1-3fb0efeef2326f41721fddc22b060a56228b2bda.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/WeatherTest/app/libs/httpmime-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="96823b9421ebb9f490dec837d9f96134e864e3a7">
+        <dex dex="/Users/apple/AndroidStudioProjects/WeatherTest/app/build/intermediates/pre-dexed/debug/httpmime-4.5.1-296f575a7196eeb843adc4726927f54a7e3982d3.jar" />
+    </item>
+
+</items>
